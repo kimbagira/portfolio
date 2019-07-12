@@ -1,5 +1,21 @@
 .main{
 display:flex;
-width:20%;
-height:200%;
+float:right;
+justify-content:space-between;
+}
+.two>h1{
+    text-align:center;
+   }
+  
+.one{
+    display:flex;
+    flex-wrap:wrap;
+     justify-content:space-between; 
+       }
+.two{
+    width:50%;
+    height:50%;
+   }
+.three{
+    padding-left:50px;
 }
