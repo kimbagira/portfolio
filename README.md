@@ -1,21 +1,43 @@
-# {portfolio project}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+portfolio project
+my project is a portfolio which includes:the home ,about me and my projects.
+ By kimbagira
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This project containe the 
+1.home:"kimbagira sylvie a software developer".
+
+2.about me.
+a)about my self:
+"Hello!,I am a software developer. 
+I do designs using HTML and CSS and I create websites,
+that really push me to learn more and more".
+
+b)my backgroung:
+"a profetional sertificate in BIT(Business,Infotmation and Technology,
+an internship of IT(information  and technology),a short course of drawing".
+
+c)the reason i choosed to do programing:"I decided to take a class of programming because liked it firstly and i wanted to improve my skills and knowledge,i wanted to be a software developer and even more,i really wanted to go deeper in coding".
+
+
+3.my projects.
+a)kimbagira's enterprise:
+"this project includes different department which are:restaurent_department,gym_department and shop_department".
+
+b)Drury Cafe Restaurant:"this project is about restaurant which has:foods and drinks,meats,soups,salades".
+
+c)my favorite things:"this project is about my favorite things".
+
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+1.you must have any terminal to put your codes.
+2.you must have any kind of brower.
+3.you must have visual studio or atom.
+
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+my project don't have bugs 
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+ the languages that I used are:HTML and CSS.
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+if you face any  issue ,contact me on:
+emai=sylviekimbagira@gmail.com,
+phone number=0786558890
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2019 kimbagira sylvie
