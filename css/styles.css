@@ -1,9 +1,4 @@
-.main{
-    display:flex;
-    flex-direction:column;
-    float:right;
-    justify-content:space-between;
-}
+
 .two>h1{
     text-align:center;
    }
@@ -14,15 +9,24 @@
     justify-content:space-between; 
        }
 .two{
-    width:50%;
+    width:25%;
     height:50%;
    }
+
+@media only screen and (min-width:800px){
+}
+.form{
+    display:flex;
+    /* flex-wrap:wrap; */
+}
 .three{
     
     box-shadow:0 3px 6px gray,0 10px 15px gray;
-    margin-right:50%;
-    display:flex;
-    flex-wrap:wrap;
+    margin-right:20%;
+    /* flex-wrap:wrap; */
+    
 }
-@media only screen and (min-width:800px){
+.main{
+    /* margin-left: 20%; */
+    margin-right:10%;
 }
