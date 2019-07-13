@@ -30,7 +30,8 @@ c)my favorite things:"this project is about my favorite things".
 1.you must have any terminal to put your codes.
 2.you must have any kind of brower.
 3.you must have visual studio or atom.
-
+##link to live site on GitHub Pages
+https://kimbagira.github.io/portfolio/index.html
 ## Known Bugs
 my project don't have bugs 
 ## Technologies Used
