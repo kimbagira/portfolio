@@ -15,7 +15,7 @@ b)my backgroung:
 "a profetional sertificate in BIT(Business,Infotmation and Technology,
 an internship of IT(information  and technology),a short course of drawing".
 
-c)the reason i choosed to do programing:"I decided to take a class of programming because liked it firstly and i wanted to improve my skills and knowledge,i wanted to be a software developer and even more,i really wanted to go deeper in coding".
+c)the reason i choosed to do programing:"I decided to take a class of programming because liked it firstly and i wanted to improve my skills and knowledge,i wanted to be a software developer and even more,i really wanted to go deeper in coding and learn more new things".
 
 
 3.my projects.
